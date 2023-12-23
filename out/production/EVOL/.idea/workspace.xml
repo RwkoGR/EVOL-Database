@@ -1,31 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="7ac3cd28-cf28-44cb-8b7e-bf7f2926de7f" name="Changes" comment="Create Tables" />
-    <list id="b04651b3-90cc-4fbb-8151-274eaeee4f18" name="Changes by mos30" comment="" />
-    <list id="013a817d-5ab3-45c4-b1a3-e784985de97a" name="Changes by zafei" comment="Changes by zafei" />
-=======
-    <list default="true" id="7ac3cd28-cf28-44cb-8b7e-bf7f2926de7f" name="Changes" comment="Create Tables">
-      <change afterPath="$PROJECT_DIR$/GUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EVOL/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EVOL/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EVOL/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EVOL/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EVOL/DataBase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EVOL/EVOL.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EVOL/GUI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EVOL/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EVOL/Vehicle.class" afterDir="false" />
+    <list default="true" id="7ac3cd28-cf28-44cb-8b7e-bf7f2926de7f" name="Changes" comment="Initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
     </list>
-    <list id="b04651b3-90cc-4fbb-8151-274eaeee4f18" name="Changes by mos30" comment="" />
-    <list id="013a817d-5ab3-45c4-b1a3-e784985de97a" name="Changes by zafei" comment="">
-      <change beforePath="$PROJECT_DIR$/DataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Vehicle.java" afterDir="false" />
+    <list id="542f8c24-922e-4265-9206-63b2b31cbcad" name="Changes by mos30" comment="">
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
     </list>
->>>>>>> Rwko
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,31 +28,23 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/Main.java">
+      <ranges>
+        <range start1="10" end1="11" start2="10" end2="11" changelist="542f8c24-922e-4265-9206-63b2b31cbcad" />
+        <range start1="17" end1="18" start2="17" end2="17" changelist="7ac3cd28-cf28-44cb-8b7e-bf7f2926de7f" />
+      </ranges>
+    </file>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
-  </component>
   <component name="ProjectId" id="2ZwLwrJjyRHMzEwp3nf4QAIKtxn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-<<<<<<< HEAD
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Rwko/Documents/MEGA/MEGAsync/CSD-SEM5/HY360-DataBases/Project/mysql-connector-j-8.2.0/mysql-connector-j-8.2.0.jar&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
-=======
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -82,17 +56,9 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "CodeWithMe"
->>>>>>> Rwko
   }
-}</component>
+}]]></component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="EVOL" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="EVOL" />
       <method v="2">
@@ -106,11 +72,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -135,14 +96,7 @@
       <option name="project" value="LOCAL" />
       <updated>1703334097686</updated>
     </task>
-    <task id="LOCAL-00003" summary="Create Tables">
-      <created>1703341367847</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1703341367847</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,25 +124,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <MESSAGE value="Create Tables" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create Tables" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.lang.RuntimeException" package="java.lang" />
-          <option name="timeStamp" value="3" />
-        </breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
