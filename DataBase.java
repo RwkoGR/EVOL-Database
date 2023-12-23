@@ -34,7 +34,6 @@ public class DataBase {
                     "insurance_cost INT," +
                     "color VARCHAR(255)," +
                     "brand VARCHAR(255)," +
-                    "category_id INT," +
                     "FOREIGN KEY (category_id) REFERENCES Category(category_id))";
             statement.executeUpdate(createTableSQL);
 
